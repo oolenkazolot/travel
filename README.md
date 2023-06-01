@@ -17,8 +17,8 @@ Travel is a single-page website focused on travel, featuring a visually appealin
 
 ## Modal Sign up/Log in
 
-<image src="assets/img/screenshots/Screenshot_6.png" alt="modal-log-in">
 <image src="assets/img/screenshots/Screenshot_7.png" alt="modal-sign-in">
+<image src="assets/img/screenshots/Screenshot_6.png" alt="modal-log-in">
 
 ## Mobile view
 
