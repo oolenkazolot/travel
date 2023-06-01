@@ -618,8 +618,6 @@ button {
     min-height: 251px;
     padding: calc(67px + 75px) 0 0;
     background-image: url(../assets/img/backgroud-mobile-image.jpg);
-    border-top-right-radius: 30px;
-    border-top-left-radius: 30px;
   }
 }
 .preview::before {
@@ -635,8 +633,6 @@ button {
     right: 0;
     bottom: 0;
     background-image: linear-gradient(180deg, #0d606f 0%, rgba(13, 96, 111, 0) 25.1%);
-    border-top-right-radius: 30px;
-    border-top-left-radius: 30px;
   }
 }
 .preview__title {
