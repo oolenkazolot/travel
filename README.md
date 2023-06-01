@@ -8,20 +8,17 @@ Travel is a single-page website focused on travel, featuring a visually appealin
 
 ## Main screen
 
-<image src="assets/img/screenshots/Screenshot_1.png" alt="main">
-<image src="assets/img/screenshots/Screenshot_2.png" alt="main">
 <image src="assets/img/screenshots/Screenshot_4.png" alt="main">
 <image src="assets/img/screenshots/Screenshot_5.png" alt="main">
 
-## Modal windows for registration and authentication
-
-<image src="assets/img/screenshots/Screenshot_6.png" alt="modal-registration">
-<image src="assets/img/screenshots/Screenshot_17.png" alt="modal-authentication">
-
 ## Infinite slider in pure JavaScript
 
-<image src="assets/img/screenshots/Screenshot_3.png" alt="carousel">
-<image src="assets/img/screenshots/Screenshot_11.png" alt="carousel">
+<image src="assets/img/screenshots/Screenshot_11.png" alt="slider">
+
+## Modal Sign in/Log in
+
+<image src="assets/img/screenshots/Screenshot_6.png" alt="modal-log-in">
+<image src="assets/img/screenshots/Screenshot_7.png" alt="modal-sign-in">
 
 ## Mobile view
 
